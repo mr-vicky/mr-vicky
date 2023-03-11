@@ -2,6 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mr-vicky?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=mr-vicky&color=brightgreen">
 
+
 <img src = "/2.png">
 
 
@@ -21,6 +22,8 @@
 </p>
 </div>
 
+
+<h2 align="center">Github Stats</h2>
 
 <table>
   <tr>
