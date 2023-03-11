@@ -2,8 +2,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/mr-vicky?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=mr-vicky&color=brightgreen">
 
+<img src = "/2.png">
 
-<h1 align="center">Hi 👋, I'm Vivek Sarade</h1>
+
 
 <p align="center">C | C++ | DSA | HTML | CSS </p>
 
