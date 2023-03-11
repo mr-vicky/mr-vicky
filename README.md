@@ -32,4 +32,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-vicky&theme=dark" alt="devika-be" /></p>
   
   </div>
+  
+
+<h2 align="center">Leetcode Stats</h2>
+<div align="center">
+  <p><img align="center" src="https://leetcard.jacoblin.cool/Mr_Vicky?theme=dark" /></p>
+ <div>
+ 
+   
 
