@@ -36,8 +36,8 @@
 
 <h2 align="center">Leetcode Stats</h2>
 <div align="center">
-  <p><img align="center" src="https://leetcard.jacoblin.cool/Mr_Vicky?theme=dark" /></p>
+  
  <div>
  
-   
+ [![LeetCode Stats](https://leetcode.card.workers.dev/Mr_Vicky?theme=dark&font=&extension=activity)](https://leetcode.com/Mr_Vicky/)
 
