@@ -33,7 +33,7 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-vicky&theme=dark" alt="devika-be" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-vicky&theme=dark" alt="mr-vicky" /></p>
   
   </div>
   
