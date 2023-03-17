@@ -27,13 +27,13 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mr-vicky&show_icons=true&theme=highcontrast&locale=en" alt="mr-vicky" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-vicky&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="mr-vicky" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mr-vicky&show_icons=true&theme=dark&locale=en" alt="mr-vicky" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-vicky&show_icons=true&theme=dark&locale=en&layout=compact" alt="mr-vicky" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-vicky&theme=highcontrast" alt="mr-vicky" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-vicky&theme=dark" alt="mr-vicky" /></p>
   
   </div>
   
