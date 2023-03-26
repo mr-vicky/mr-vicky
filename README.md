@@ -2,6 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mr-vicky?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=mr-vicky&color=brightgreen">
 
+<h1 align="center">Hi 👋, I'm Vivek Sarade</h1>
 
 <img src = "/2.png">
 
@@ -23,7 +24,7 @@
 </div>
 
 
-<h2 align="center">Github Stats</h2>
+<h1 align="center">Github Stats</h1>
 
 <table>
   <tr>
@@ -38,11 +39,67 @@
   </div>
   
 
-<h2 align="center">Leetcode Stats</h2>
+<h1 align="center">Leetcode Stats</h1>
 <div align="center">
   
  <div>
  
   [![LeetCode Stats](https://leetcode.card.workers.dev/Mr_Vicky?theme=dark&font=&extension=activity)](https://leetcode.com/Mr_Vicky/) 
    <!-- ![](https://leetcard.jacoblin.cool/Mr_Vicky?ext=heatmap) -->
+   
+   
+   # **My Projects**
+
+
+<h2 align="center">Restio</h2>
+
+<img src = "./bg1.png">
+
+Restio is a simple Restorant website, created by using HTML and CSS.
+
+Technologies Used - HTML and CSS.
+
+Deployment [Link](https://mr-vicky.github.io/Restio/) 
+
+code [Link](https://github.com/mr-vicky/Restio)
+
+
+
+<h2 align="center">Students Registration Form</h2>
+<img src = "./bg2.png">
+
+This Registration Form is a simple website, created by using HTML, CSS, and JavaScript.
+
+Technologies Used - HTML, CSS and JavaScript.
+
+Deployment [Link](https://mr-vicky.github.io/LGMVIP-Task-2/) 
+
+code [Link](https://github.com/mr-vicky/LGMVIP-Task-2)
+
+
+
+<h2 align="center">Profiles</h2>
+<img src = "./bg3.png">
+
+This is a simple website where all my and my friends' profiles are listed, created by using HTML and CSS.
+
+Technologies Used - HTML and CSS.
+
+Deployment [Link](https://mr-vicky.github.io/Profiles/) 
+
+code [Link](https://github.com/mr-vicky/Profiles)
+
+
+
+<h2 align="center">To-Do-List</h2>
+<img src = "./bg4.png">
+
+This is a simple To-Do-List web app where you can add and delete tasks, created by using HTML, CSS, and JavaScript.
+
+Technologies Used - HTML, CSS and JavaScript.
+
+Deployment [Link](https://mr-vicky.github.io/LGMVIP-Task-1/) 
+
+code [Link](https://github.com/mr-vicky/LGMVIP-Task-1)
+
 
