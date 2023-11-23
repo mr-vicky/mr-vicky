@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Sarade</h1>
 <h3 align="center">🚀 Enthusiastic Computer Engineering Student 🤖</h3>
-<img src = "/bg.png">
+<img src = "/2.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-vicky&label=Profile%20views&color=0e75b6&style=flat" alt="mr-vicky" /> </p>
 
