@@ -1,12 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-vicky&label=Profile%20views&color=0e75b6&style=flat" alt="mr-vicky" /> </p>
 <h1 align="center">Hi 👋, I'm Vivek Sarade</h1>
 <h3 align="center">🚀 Enthusiastic Computer Engineering Student 🤖</h3>
 <img src = "/2.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-vicky&label=Profile%20views&color=0e75b6&style=flat" alt="mr-vicky" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-vicky" alt="mr-vicky" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mr_vicky_96" target="blank"><img src="https://img.shields.io/twitter/follow/mr_vicky_96?logo=twitter&style=for-the-badge" alt="mr_vicky_96" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
