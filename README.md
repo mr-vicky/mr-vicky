@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://mr-vicky.github.io/Portfolio-Builder/)
-
-- 💬 Ask me about **problem solving, Data Structures and Algorithms**
+- 💬 Ask me about **problem solving, Data Structures and Algorithms** - [DSA](https://github.com/mr-vicky/DSA)
 
 - 📫 How to reach me **viveksarade4949@gmail.com**
 
