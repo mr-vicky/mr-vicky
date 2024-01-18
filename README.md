@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-vicky" alt="mr-vicky" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
+  
+- 👨‍💻 All of my projects are available at [portfolio](https://mr-vicky.github.io/)
 
 - 💬 Ask me about **problem solving, Data Structures and Algorithms** - [DSA](https://github.com/mr-vicky/DSA)
 
