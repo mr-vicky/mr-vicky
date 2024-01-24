@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **viveksarade4949@gmail.com**
 
-- 📄 Know about my work [resume](https://drive.google.com/file/d/1d84s8DHV32PhxFD4irINUNy4KhKtuaZD/view?usp=sharing)
+- 📄 Know about my work [resume](https://drive.google.com/file/d/1_l_03ZNDGkcji2oJwi4AgJBvNve4ImZS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
